@@ -1,0 +1,2 @@
+# Sending_Birthday_Mail_with_Photo_From_Database_Table
+This project developed in Python using SQlite3 database, it deals about how to create a database table from a csv file, which has a numbers of people's records with ID/NAME/AGE/ADDRESS/DOB/EMAIL/PICTURE column, also to update, fetch and write their Photos to and from the Customer table. After that find out which person's birthday today and send him a Birthday Greetings Email with their Photos as an attachment from Customer table. 
